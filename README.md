@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsandovalp
-- 👀 I’m interested in programming and girls
+- 👀 I’m interested in programming and electronic
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on JAVA projects
 - 📫 How to reach me... on 20045106@alumno.utc.edu.mx
